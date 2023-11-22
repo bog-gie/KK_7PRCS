@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KK_7PRCS/static/css/main.b81c34fc.css",
+    "main.js": "/KK_7PRCS/static/js/main.0842759d.js",
+    "index.html": "/KK_7PRCS/index.html",
+    "main.b81c34fc.css.map": "/KK_7PRCS/static/css/main.b81c34fc.css.map",
+    "main.0842759d.js.map": "/KK_7PRCS/static/js/main.0842759d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81c34fc.css",
+    "static/js/main.0842759d.js"
+  ]
+}
